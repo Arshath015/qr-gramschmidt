@@ -98,3 +98,10 @@ The test suite covers basic correctness, detection of linearly dependent columns
 
 ## License
 MIT License
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
